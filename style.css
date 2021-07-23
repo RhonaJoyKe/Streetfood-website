@@ -21,8 +21,27 @@ html{
     text-align: justify;
 
 }
-.flexcontainer{
+.EM{
     display: flex;
     background-color: #eaf3e4;
-    border:2px solid black;
-         }
+    flex-flow:row wrap;
+    width: 100%;
+
+    justify-content: flex-start;
+}
+    
+ .HD{
+    background-color:#C9ECB5;
+}
+     .htimg1{
+    float:left;
+}
+.htimg2{
+    float: left;
+    position:relative; top: 250px;right:380px;
+
+}
+#hthead2{
+    color: #6CB840;
+    font-size: 40px;
+}
