@@ -21,3 +21,10 @@ ET>p{
 
 
 }
+.flexcontainer{
+    display: flex;
+    flex-direction:wrap;
+    background-color:#eaf3e4 ;
+    height: 600px;
+    align-items: space-between;
+}
