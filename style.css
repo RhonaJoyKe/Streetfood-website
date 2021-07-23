@@ -7,11 +7,17 @@ html{
 
 }
 .ET{
-    display:flex;
-    text-align: right;
+   display:flex;
+   border:
+    
 }
-#text2{
+#phead1{
     color: #EAAB1B;
-    font-size: large;
-    text-align: right;
+    font-size: 500px;
+
+}
+
+ET>p{
+
+
 }
