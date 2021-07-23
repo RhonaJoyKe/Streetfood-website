@@ -1,0 +1,17 @@
+body{
+    width:100%;
+background-color: white;
+font-family:Poppins;
+}
+html{
+
+}
+.ET{
+    display:flex;
+    text-align: right;
+}
+#text2{
+    color: #EAAB1B;
+    font-size: large;
+    text-align: right;
+}
