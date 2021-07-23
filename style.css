@@ -8,23 +8,21 @@ html{
 }
 .ET{
    display:flex;
-   border:
     
 }
-#phead1{
+#phead2{
     color: #EAAB1B;
-    font-size: 500px;
+    font-size: 40px;
+    font-weight:20px;
+ }
 
-}
-
-ET>p{
-
+#ptext2{
+    font-size:20px;
+    text-align: justify;
 
 }
 .flexcontainer{
     display: flex;
-    flex-direction:wrap;
-    background-color:#eaf3e4 ;
-    height: 600px;
-    align-items: space-between;
-}
+    background-color: #eaf3e4;
+    border:2px solid black;
+         }
