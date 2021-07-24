@@ -2,9 +2,10 @@ body{
     width:100%;
 background-color: white;
 font-family:Poppins;
+margin:0px;
 }
 html{
-
+width:100%
 }
 .header{
     background-color: #e5e5e5;
@@ -74,10 +75,10 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
     border: 2px solid white;
     border-radius: 5px 5px 30px 30px;
     height:200px;
-    width:400px;
+    width:370px;
     padding-bottom: 150px;
     background-color: white;
-    margin-left: 80px;
+    margin-right: 20px;
     
 
 
@@ -86,13 +87,13 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
     position:relative;bottom: 20px;right:250px;
 }
 .one>p{
-    position:relative;bottom: 400px;left:250px;
+    position:relative;bottom: 400px;left:230px;
 }
 .two{
     border: 2px solid white;
     border-radius: 5px 5px 30px 30px;
     height:200px;
-    width:400px;
+    width:370px;
     padding-bottom: 150px;
     background-color: white;
     margin-left: 90px;
@@ -100,10 +101,10 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
 
 }
 .two>img{
-    position:relative;bottom: 20px;right:100px;
+    position:relative;bottom: 20px;right:220px;
 }
 .two>p{
-    position:relative;bottom: 400px;left:450px;
+    position:relative;bottom: 400px;left:230px;
 }
 .three{
     border: 2px solid white;
@@ -112,12 +113,12 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
     width:400px;
     padding-bottom: 150px;
     background-color: white;
-    margin-left: 120px;
+    margin-left: 50px;
 
 
 }
 .three>img{
-    position:relative;bottom: 20px;right:100px;
+    position:relative;bottom: 20px;right:150px;
 }
 .three>p{
     position:relative;bottom: 400px;left:450px;
