@@ -118,11 +118,63 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
 
 }
 .three>img{
-    position:relative;bottom: 20px;right:150px;
+    position:relative;bottom: 20px;right:170px;
 }
 .three>p{
-    position:relative;bottom: 400px;left:450px;
+    position:relative;bottom: 400px;left:270px;
 }
+.four{
+    border: 2px solid white;
+    border-radius: 5px 5px 30px 30px;
+    height:70px;
+    width:450px;
+    padding-bottom: 330px;
+    background-color: white;
+    margin-left: 230px;
+
+
+}
+.four>img{
+    position:relative;top: 20px;right:150px;
+}
+.four>p{
+    position:relative;bottom: 400px;left:300px;
+}
+.five{
+    border: 2px solid white;
+    border-radius: 5px 5px 30px 30px;
+    height:70px;
+    width:350px;
+    padding-bottom: 330px;
+    background-color: white;
+    margin-right: 90px;
+
+
+}
+.five>img{
+    position:relative;top: 20px;right:150px;
+}
+.five>p{
+    position:relative;bottom: 400px;left:300px;
+}
+.six{
+    border: 2px solid white;
+    border-radius: 5px 5px 30px 30px;
+    height:70px;
+    width:350px;
+    padding-bottom: 330px;
+    background-color: white;
+    margin-left: 10px;
+
+
+}
+.six>img{
+    position:relative;top: 20px;right:150px;
+}
+.six>p{
+    position:relative;bottom: 400px;left:300px;
+}
+
  .HD{
     background-color:#C9ECB5;
     width:100%;
