@@ -70,3 +70,18 @@ padding-top: 30px;
 #httext{
     font-size:20px ;
 }
+.CU{
+    background-color: #FFD77C;
+    width: 100%;
+    height:400px;
+    font-weight: 300px;
+    text-align: center;
+}
+#cuhead{
+    font-size: 20px;
+    text-align: justify;
+}
+#cutext{
+font-size: 20px;
+text-align: center;
+}
