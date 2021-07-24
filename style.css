@@ -52,6 +52,7 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
     background-color: #eaf3e4;
     width: 100%;
     height: 900px;
+    margin-bottom: 0px;
    
 }
 .EM1{
@@ -179,57 +180,69 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
     background-color:#C9ECB5;
     width:100%;
     height:600px;
+    margin-top: 0px;
 }
-     .htimg1{
-    float:left;
-    position:relative; bottom: 138px;right:50px;
-    padding-left: 100px;
+     .hdimg1{
+    float:right;
+    position:relative; bottom: 550px;right:1000px;
+    padding-left: 10px;
 }
-.htimg2{
-    float: left;
-    position:relative; top: 120px;right:380px;
+.hdimg2{
+    float: right;
+    position:relative; bottom: 300px;right:380px;
     padding-left: 10px;
     
 
 }
-#hthead1{
+#hdhead1{
 font-size: 20px;
 text-align: center;
 padding-top: 30px;
 }
 
-#hthead2{
-    padding-left: 700px;
+#hdhead2{
+    padding-left: 300px;
+    padding-top: 50px;
     font-size: 40px;
     text-align: center;
     color: #6CB840;
     }
 
-#hthead3{
+#hdhead3{
     font-size: 30px;
+    padding-left:700px ;
+    padding-top:10px;
 }
 
-#hthead4{
+#hdhead4{
     font-size:30px ;
+    padding-left: 700px;
 }
-#httext{
+#hdtext{
     font-size:20px ;
+    padding-left: 700px;
+    
 }
 .CU{
     background-color: #FFD77C;
     width: 100%;
-    height:400px;
+    height:500px;
     font-weight: 300px;
     text-align: center;
+    
 }
 #cuhead{
     font-size: 20px;
-    float: center;
+    text-align: center;
+    padding-left:400px;
 }
 #cutext{
 font-size: 20px;
-float:center;
-padding-right: 100px;
+text-align:center;
+}
+.form{
+    padding-bottom:50px;
+    float:center;
 }
 input[type=email]{
 border-radius: 20px;
@@ -238,7 +251,6 @@ height:30px;
 background-color: white;
 border-color: white;
 font-size: 15px;
-padding-right:50px;
 }
 input[type=button]{
     border-radius: 30px;
@@ -251,7 +263,12 @@ input[type=button]{
     .footer{
         background-color: #C9ECB5;
         width: 100%;
-        height:400px;
+        height:200px;
         font-weight: 300px;
+        display: flex;
        
+    }
+    .days{
+        border-right: 3px dashed #6CB840;
+        padding-left: 30px;
     }
