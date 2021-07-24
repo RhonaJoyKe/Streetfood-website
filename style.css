@@ -56,7 +56,9 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
 .EM1{
     display: flex;
  justify-content: space-evenly;
- padding-top:100px ;
+ padding-left: 200px;
+ padding-right: 20px;
+ padding-top: 50px;
 }
 .EM2{
     display: flex;
@@ -66,17 +68,60 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
 #emhead{
     font-size: 30px;
     text-align: center;
+    margin-bottom: 20px;
 }
 .one{
-    border: 2px solid black;
-    border-radius: 5px 5px 5px 30px;
-    border-color: blue;
-    height:300px;
+    border: 2px solid white;
+    border-radius: 5px 5px 30px 30px;
+    height:200px;
     width:400px;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
+    background-color: white;
+    margin-left: 80px;
+    
+
 
 }
-    
+.one>img{
+    position:relative;bottom: 20px;right:250px;
+}
+.one>p{
+    position:relative;bottom: 400px;left:250px;
+}
+.two{
+    border: 2px solid white;
+    border-radius: 5px 5px 30px 30px;
+    height:200px;
+    width:400px;
+    padding-bottom: 150px;
+    background-color: white;
+    margin-left: 90px;
+
+
+}
+.two>img{
+    position:relative;bottom: 20px;right:100px;
+}
+.two>p{
+    position:relative;bottom: 400px;left:450px;
+}
+.three{
+    border: 2px solid white;
+    border-radius: 5px 5px 30px 30px;
+    height:200px;
+    width:400px;
+    padding-bottom: 150px;
+    background-color: white;
+    margin-left: 120px;
+
+
+}
+.three>img{
+    position:relative;bottom: 20px;right:100px;
+}
+.three>p{
+    position:relative;bottom: 400px;left:450px;
+}
  .HD{
     background-color:#C9ECB5;
     width:100%;
