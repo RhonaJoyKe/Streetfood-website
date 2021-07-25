@@ -11,9 +11,6 @@ width:100%
     background-color: #e5e5e5;
     height:700px;
 }
-.nav{
-    z-index: 1;
-}
 .nav ul{
     list-style-type: none;
     font-size: 20px; 
