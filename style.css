@@ -34,18 +34,29 @@ clip-path: polygon(52% 0,61% 35%,100% 50%,68% 57%,100% 100%,50% 70%, 2% 100%, 32
         width: 995px;
         background-color: #649549;
         border-radius: 50%;
-        position:relative;left:580px;bottom:550px;
+        position:relative;left:580px;bottom:800px;
         opacity: 0.6;
         overflow:hidden ;
       }
+      .text{
+        padding-left:30px;
+        float:left;
+        text-align: left;
     }
-    
+      
+ #headertxt1{
+          font-size: 40px;
+      }
+
+   #headertxt2{
+          font-size: 15px;
+      } 
 .ET{
-   display:flex;
+   
     
 }
 .text2{
-    position:relative;left:1100px;bottom:650px;
+    position:relative;left:1100px;bottom:700px;
 }
 #phead2{
     color: #EAAB1B;
